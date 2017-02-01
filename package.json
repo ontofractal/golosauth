@@ -1,0 +1,40 @@
+{
+  "name": "steemauth",
+  "version": "0.0.19",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adcpm/steemauth.git"
+  },
+  "keywords": [
+    "steem",
+    "steemit",
+    "blockchain",
+    "steemjs",
+    "steemauth"
+  ],
+  "author": "AdCpm <fabien@bonustrack.co> (https://github.com/adcpm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adcpm/steemconnect/issues"
+  },
+  "homepage": "https://github.com/adcpm/steemconnect#readme",
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "bs58": "^3.0.0",
+    "bytebuffer": "^5.0.1",
+    "ecurve": "^1.0.3"
+  },
+  "contributors": [
+    "Fabien (https://github.com/adcpm)",
+    "KaptainKrayola (https://github.com/KaptainKrayola)",
+    "Nilesh Suthar (https://github.com/nil1511)"
+  ],
+  "devDependencies": {
+    "steem": "^0.3.17"
+  }
+}
